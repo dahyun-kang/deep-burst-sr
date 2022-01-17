@@ -6,3 +6,4 @@
 **/*.pth
 admin/local.py
 pretrained_networks/*
+**/vis/*
